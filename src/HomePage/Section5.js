@@ -3,10 +3,7 @@ import gallery1 from '../assets/images/gallery/g-1.jpg'
 import gallery2 from '../assets/images/gallery/g-2.jpg'
 import gallery3 from '../assets/images/gallery/g-3.jpg'
 import gallery4 from '../assets/images/gallery/g-4.jpg'
-import gallery5 from '../assets/images/gallery/g-5.jpg'
-import gallery6 from '../assets/images/gallery/g-6.jpg'
-import gallery7 from '../assets/images/gallery/g-7.jpg'
-import gallery8 from '../assets/images/gallery/g-8.jpg'
+
 
 
 const Section4 = () => {
