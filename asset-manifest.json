@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/OrganicProj/static/css/main.f36387cd.css",
+    "main.js": "/OrganicProj/static/js/main.487ffd3a.js",
+    "static/media/home.jpg": "/OrganicProj/static/media/home.305d993d6d3bb61cd513.jpg",
+    "static/media/testimonial-1.png": "/OrganicProj/static/media/testimonial-1.038e5ab3fbab1dfd5f5a.png",
+    "static/media/g-1.jpg": "/OrganicProj/static/media/g-1.0b9cb09c115aa811151d.jpg",
+    "static/media/g-4.jpg": "/OrganicProj/static/media/g-4.d457ae9ed9a2c2e22b5d.jpg",
+    "static/media/g-2.jpg": "/OrganicProj/static/media/g-2.5f769fe9f2b64333bcb8.jpg",
+    "static/media/g-3.jpg": "/OrganicProj/static/media/g-3.b520db9d887bca27f816.jpg",
+    "static/media/aboutBanner.jpg": "/OrganicProj/static/media/aboutBanner.8630ea1024c5d7053e85.jpg",
+    "static/media/product-2.jpg": "/OrganicProj/static/media/product-2.4c46a8d66b37af632616.jpg",
+    "static/media/product-4.jpg": "/OrganicProj/static/media/product-4.44b44da31e9c443431a5.jpg",
+    "static/media/wheat.svg": "/OrganicProj/static/media/wheat.3f23669d5ac81049894d6ab672a95dc6.svg",
+    "static/media/product-3.jpg": "/OrganicProj/static/media/product-3.a90eaa9b0eadc5711f49.jpg",
+    "static/media/product-1.jpg": "/OrganicProj/static/media/product-1.b0284b3a3739d2561273.jpg",
+    "static/media/truck-loaded.svg": "/OrganicProj/static/media/truck-loaded.c96f4126d29ec0c99d920618455cf0f6.svg",
+    "static/media/lemon.svg": "/OrganicProj/static/media/lemon.84fd90080bba658fcbc265d10c951909.svg",
+    "static/media/ui-chat.svg": "/OrganicProj/static/media/ui-chat.39b82179c1417dc5c2a29b62ad3e4fd6.svg",
+    "index.html": "/OrganicProj/index.html",
+    "main.f36387cd.css.map": "/OrganicProj/static/css/main.f36387cd.css.map",
+    "main.487ffd3a.js.map": "/OrganicProj/static/js/main.487ffd3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f36387cd.css",
+    "static/js/main.487ffd3a.js"
+  ]
+}
